@@ -1,4 +1,5 @@
-Sqoop Cloudera -----*** Install database to import data ***----- 
+                          Sqoop Cloudera -----***
+Install database to import data ***----- 
 $ sudo apt-get install mysql-server -y -----*** Download sample database ***----- 
 $ wget http://www.mysqltutorial.org/wp-content/uploads/2018/03/mysqlsampledatabase.zip 
 $ sudo apt install zip -y 
