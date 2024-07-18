@@ -14,7 +14,7 @@ $ sudo service mysql restart -----*** Create a user for sqoop ***-----
 mysql>create user 'sqoopuser'@'%' identified by 'password'; 
 mysql>grant all privileges on *.* to 'sqoopuser'@'%'; 
 d atabinaries 
-1 | P a g e                                                       
+[1]                                                      
 -----*** Sqoop ***----- 
 ### Log in to one of the datanodes 
 $ sqoop help 
@@ -52,5 +52,5 @@ password password --table export --export-dir /user/hdfs/exportdir/
 ### Check data in database 
 mysql -u root -p 
 mysql> select * from export; 
-d atabinaries 
+
                                                   
