@@ -67,6 +67,8 @@ $ curl 'https://bootstrap.pypa.io/pip/2.7/get-pip.py' > get-pip.py && sudo pytho
 $ sudo pip install psycopg2==2.7.5 --ignore-installed
 
 
+-----**** Create AMI ****----------
+
 
 
 -----*** Install and start CM ***-----
