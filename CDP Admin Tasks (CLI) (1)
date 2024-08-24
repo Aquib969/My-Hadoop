@@ -2,7 +2,13 @@
               CDP Admin tasks
 *********************************************
 
-
+connect to worker on terminal
+sudo passwd hdfs
+sudo nano /etc/passwd
+type ctr + w serch hdfs 
+type bin bash
+su hdfs
+ hdfs dfs -mkdir /data
 # Safemode
 
 hdfs dfsadmin -safemode get
