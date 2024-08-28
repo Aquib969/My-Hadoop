@@ -70,7 +70,7 @@ $ sudo pip install psycopg2==2.7.5 --ignore-installed
 
 -----**** Create AMI ****----------
 
-
+launch 5 instance 4 worker 1 master
 
 -----*** Install and start CM ***-----
 
