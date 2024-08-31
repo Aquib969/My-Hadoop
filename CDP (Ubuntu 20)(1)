@@ -80,3 +80,12 @@ $ chmod u+x cloudera-manager-installer.bin
 
 $ sudo ./cloudera-manager-installer.bin
 
+
+CM : 7180 WEBUI
+
+
+How to stop cluster 
+first stop in cloudera manager
+copy public IP of CM connect to the terminal
+$ sudo service cloudera-scm-server stop
+
