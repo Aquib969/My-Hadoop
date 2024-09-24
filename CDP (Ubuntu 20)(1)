@@ -81,7 +81,7 @@ $ chmod u+x cloudera-manager-installer.bin
 $ sudo ./cloudera-manager-installer.bin
 
 
-CM : 7180 WEBUI
+CM : 7180 ( WEBUI port number )
 
 
 How to stop cluster 
