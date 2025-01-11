@@ -2,7 +2,7 @@
 		Cloudera Data Platform
 ********************************************************
 select Ubuntu 20 plain ami
-ami-03111e65690b0cc57
+ami-0e6b0a1f7f29fa192
 
 
 -----*** Update the server ***-----
